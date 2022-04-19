@@ -1,4 +1,4 @@
-package com.mfe;
+package com.mfe.eePipeServer;
 
 /*
  * Copyright (c) 2010-2020 Nathan Rajlich

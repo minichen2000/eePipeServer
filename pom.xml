@@ -49,7 +49,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.mfe.eePipeServer</mainClass>
+                            <mainClass>com.mfe.eePipeServer.eePipeServer</mainClass>
                         </manifest>
                     </archive>
                     <descriptors>
